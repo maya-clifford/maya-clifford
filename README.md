@@ -3,6 +3,7 @@
 <!--
 **maya-clifford/maya-clifford** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -14,3 +15,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I'm a second-year student at the University of Virginia studying data science with a concentration with human movement and physiology. I hope to work in sports analytics after graduation! 
+
+One of the most recent projects I've done was working with stock data from Anachart to answer the question if analysts with more experience making predictions with technology companies in the NASDAQ-100 had better predictions for specific tech companies. My work was looking at Adobe and comparing the Anachart data about price targets that were submitted by analysts to the actual stock data to see how ambitious their predictions were and how long they ususally took to be met. I also queried the data for all tech companies to get how many tech predictions each analyst submitted, equating more predictions to more experience. From that data, I made visualizations that showed how good each analyst was while also showing how many predictions they made. 
